@@ -1,0 +1,767 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 21:22:02.734 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:22:02.735 NotebookApp] The port 8889 is already in use, trying another port.
+[I 21:22:02.749 NotebookApp] Serving notebooks from local directory: /Users/jason/project/github/DeepLearning
+[I 21:22:02.749 NotebookApp] 0 active kernels
+[I 21:22:02.749 NotebookApp] The Jupyter Notebook is running at:
+[I 21:22:02.749 NotebookApp] http://localhost:8890/?token=b4597830f963ea26d1bad7e5168a1d01aeac5afc6c411931
+[I 21:22:02.749 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:22:02.750 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=b4597830f963ea26d1bad7e5168a1d01aeac5afc6c411931
+[I 21:22:02.988 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 21:22:03.513 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 8.16ms referer=http://localhost:8890/tree
+[W 21:22:19.286 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.24ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 21:22:21.543 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.81ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[I 21:22:26.321 NotebookApp] Creating new notebook in /tensorflow_notebooks/3
+[W 21:22:26.744 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.83ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Untitled.ipynb?kernel_name=python3
+[I 21:22:26.846 NotebookApp] Kernel started: 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6
+[W 21:22:26.852 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 3.50ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Untitled.ipynb?kernel_name=python3
+[I 21:22:27.544 NotebookApp] Adapting to protocol v5.1 for kernel 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6
+[I 21:24:20.673 NotebookApp] Saving file at /tensorflow_notebooks/3/3-2决策树.ipynb
+[I 11:13:48.913 NotebookApp] Starting buffering for 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6:74E2A2F4DA304D51801B49D6DDAE7B3D
+[W 11:13:49.277 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.42ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-2%E5%86%B3%E7%AD%96%E6%A0%91.ipynb
+[W 11:13:49.346 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.30ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-2%E5%86%B3%E7%AD%96%E6%A0%91.ipynb
+[I 11:13:49.349 NotebookApp] Adapting to protocol v5.1 for kernel 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6
+[I 12:49:08.310 NotebookApp] Starting buffering for 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6:CB75AB421ABF4BB980153515891B702C
+[W 12:49:08.459 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.47ms referer=http://localhost:8890/tree
+[W 12:49:10.239 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.24ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 12:49:12.519 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.19ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[I 12:49:20.175 NotebookApp] Creating new notebook in /tensorflow_notebooks/3
+[W 12:49:20.424 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.52ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Untitled.ipynb?kernel_name=python3
+[I 12:49:20.521 NotebookApp] Kernel started: bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[W 12:49:20.532 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.63ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Untitled.ipynb?kernel_name=python3
+[I 12:49:21.593 NotebookApp] Adapting to protocol v5.1 for kernel bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[I 12:51:20.476 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:52:45.065 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:53:11.251 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:53:20.469 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:53:32.817 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:53:35.378 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:53:43.656 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:54:13.759 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:54:27.951 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:54:52.709 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:13.902 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:20.465 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:21.814 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:25.942 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:27.549 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:35.204 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:37.442 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:55:41.791 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:56:05.220 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:56:19.413 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:56:26.545 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:56:41.494 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:56:46.829 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:57:07.766 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:57:20.458 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:57:23.789 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:04.356 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:08.910 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:16.827 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:26.148 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:28.886 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:58:34.182 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:59:55.837 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 12:59:56.229 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:00:00.852 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:00:32.589 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:00:50.342 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:12.071 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:20.475 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:31.133 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:42.148 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:48.390 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:01:53.812 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:02:00.622 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:02:05.220 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:02:09.101 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:02:16.375 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:03:20.466 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:03:34.285 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:05:04.047 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[W 13:24:33.872 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.46ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[W 13:24:34.008 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.44ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[I 13:24:34.022 NotebookApp] Adapting to protocol v5.1 for kernel bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[I 13:24:59.695 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:25:34.221 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:26:33.275 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:28:06.449 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:28:34.006 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:28:46.418 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:28:53.257 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:29:16.844 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:29:29.293 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:29:38.678 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:30:18.728 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:30:57.757 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:31:05.301 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:31:28.715 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:31:34.793 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:31:35.810 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:32:33.993 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:32:35.583 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:32:48.743 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:34:07.351 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:34:12.894 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:34:33.989 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:34:50.701 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:34:54.459 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:35:00.778 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:35:36.542 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:35:45.966 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:36:10.791 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:36:25.325 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:36:33.988 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:36:53.120 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:37:34.385 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:37:51.751 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:10.862 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:12.112 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:14.942 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:17.526 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:21.304 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:27.815 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:30.276 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:43.296 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:43.752 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:38:52.770 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 13:41:24.272 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[W 13:45:08.438 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.33ms referer=http://localhost:8890/tree
+[W 13:45:10.680 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 13:45:11.901 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.36ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[W 13:45:15.611 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.21ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[I 13:45:38.499 NotebookApp] Creating new directory in /tensorflow_notebooks
+[W 13:46:21.879 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.32ms referer=http://localhost:8890/tree/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA
+[I 13:46:25.793 NotebookApp] Creating new notebook in /tensorflow_notebooks/5支持向量机
+[W 13:46:26.133 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.57ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/Untitled.ipynb?kernel_name=python3
+[I 13:46:26.212 NotebookApp] Kernel started: 9614ddcf-3393-4431-9ae2-8bfac40367e1
+[W 13:46:26.223 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 3.46ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/Untitled.ipynb?kernel_name=python3
+[I 13:46:26.903 NotebookApp] Adapting to protocol v5.1 for kernel 9614ddcf-3393-4431-9ae2-8bfac40367e1
+[I 13:46:48.548 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述.ipynb
+[I 13:47:57.520 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:48:07.743 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:49:02.220 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:49:49.795 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:50:13.645 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:54:26.182 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:54:31.770 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:54:32.106 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:54:44.320 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:56:04.137 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:56:04.600 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:56:54.557 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:57:10.677 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:57:10.981 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:57:48.318 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:57:52.402 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:59:00.338 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:59:01.955 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:59:42.098 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:59:54.065 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 13:59:56.111 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:00:49.026 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:07:19.898 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:08:26.150 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:09:19.183 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:09:44.152 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:09:53.643 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:09:56.735 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 14:46:26.042 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:46:16.052 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:47:07.765 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:47:07.791 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:47:21.587 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:48:07.082 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:48:46.343 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:49:07.763 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:49:14.508 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:49:33.524 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:49:42.643 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:50:09.577 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:50:23.993 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:50:53.132 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:50:59.507 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:51:07.754 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:52:56.743 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:53:07.749 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:17.137 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:21.167 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:27.600 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:33.472 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:40.056 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:45.111 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:54:48.119 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:55:07.744 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:56:25.525 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:56:36.020 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:56:42.655 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:57:07.738 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:57:10.940 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:57:35.907 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:57:41.018 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:57:42.874 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 16:59:07.759 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:00:14.941 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:00:21.796 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:00:26.571 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:01:07.720 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:01:22.285 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:01:28.783 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:01:52.083 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:02:28.714 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:02:40.242 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:02:43.299 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:03:07.716 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:03:22.653 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:03:33.330 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:03:46.421 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:04:07.017 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:04:39.159 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/1-支持向量机概述-svm.ipynb
+[I 17:06:40.151 NotebookApp] Starting buffering for 9614ddcf-3393-4431-9ae2-8bfac40367e1:CA77B373FAB64F41B9A138FFEE193A3E
+[W 17:06:43.748 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.84ms referer=http://localhost:8890/tree/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA
+[I 17:06:46.396 NotebookApp] Creating new notebook in /tensorflow_notebooks/5支持向量机
+[W 17:06:46.760 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.00ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/Untitled.ipynb?kernel_name=python3
+[I 17:06:46.845 NotebookApp] Kernel started: 0f3419cb-a423-409b-a7d8-ea7f98d653c1
+[W 17:06:46.852 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.73ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/5%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/Untitled.ipynb?kernel_name=python3
+[I 17:06:47.673 NotebookApp] Adapting to protocol v5.1 for kernel 0f3419cb-a423-409b-a7d8-ea7f98d653c1
+[I 17:07:30.292 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:07:45.240 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:08:12.583 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:08:46.832 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:09:17.664 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:09:38.975 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:10:29.230 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:10:44.073 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:11:07.807 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:11:13.369 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:11:23.535 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:12:00.959 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:12:08.532 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:12:10.492 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:12:36.201 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:13:14.453 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:14:28.951 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:14:46.830 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:14:55.579 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:15:23.185 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:15:58.290 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:16:37.526 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:16:43.636 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:16:46.850 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:17:11.728 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:17:49.269 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:17:57.557 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:18:34.449 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:18:46.849 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:19:00.864 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:19:17.023 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:19:25.112 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:19:47.485 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:20:25.144 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:20:46.843 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:20:49.575 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:21:27.930 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:21:56.740 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:22:38.647 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:22:44.032 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:22:46.836 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:23:09.655 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:24:46.831 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:25:00.674 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:25:19.984 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:26:15.124 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:26:46.828 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:26:56.810 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:27:02.748 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[W 17:28:08.573 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.32ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 17:28:12.084 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.28ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[W 17:28:15.771 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[I 17:28:15.887 NotebookApp] Adapting to protocol v5.1 for kernel bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[W 17:28:15.891 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[W 17:28:21.589 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-2%E5%86%B3%E7%AD%96%E6%A0%91.ipynb
+[W 17:28:21.639 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.12ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-2%E5%86%B3%E7%AD%96%E6%A0%91.ipynb
+[I 17:28:21.650 NotebookApp] Adapting to protocol v5.1 for kernel 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6
+[I 17:28:25.529 NotebookApp] Starting buffering for 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6:738C153159874C678D557970CD880AC0
+[W 17:28:28.114 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.59ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-1%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[I 17:28:28.224 NotebookApp] Kernel started: 34936b43-d1cd-49ef-9c6a-e2c76bec906a
+[W 17:28:28.235 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.34ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/3-1%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb
+[I 17:28:29.130 NotebookApp] Adapting to protocol v5.1 for kernel 34936b43-d1cd-49ef-9c6a-e2c76bec906a
+[I 17:28:47.055 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:29:34.005 NotebookApp] Starting buffering for 34936b43-d1cd-49ef-9c6a-e2c76bec906a:9EEB4AA92C5141838334F2AB48131AAE
+[I 17:29:38.525 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 17:30:18.323 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[W 17:30:24.229 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.54ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[I 17:30:30.623 NotebookApp] Creating new directory in /tensorflow_notebooks
+[W 17:30:54.016 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.48ms referer=http://localhost:8890/tree/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95
+[I 17:41:55.193 NotebookApp] Starting buffering for bf287f1c-d788-4fd0-b126-4f5f85c62c4a:93F90A6CDF0549BD85F7ED7F6DCA40A2
+[W 17:41:55.434 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.27ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[I 17:41:55.568 NotebookApp] Adapting to protocol v5.1 for kernel bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[W 17:41:55.574 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.36ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/3/Knn%20K%E4%B8%B4%E8%BF%91%E7%AE%97%E6%B3%95.ipynb
+[I 17:41:59.707 NotebookApp] Saving file at /tensorflow_notebooks/3/Knn K临近算法.ipynb
+[I 17:42:08.608 NotebookApp] Starting buffering for bf287f1c-d788-4fd0-b126-4f5f85c62c4a:2C66914DBBE04CB6BD4A05379B4FAFDA
+[I 17:42:16.564 NotebookApp] Saving file at /tensorflow_notebooks/5支持向量机/svm-example.ipynb
+[I 12:14:12.559 NotebookApp] Starting buffering for 0f3419cb-a423-409b-a7d8-ea7f98d653c1:E94F37E054FF4AAC807E4FE357B333C5
+[W 12:14:15.156 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.99ms referer=http://localhost:8890/tree/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95
+[I 12:14:21.191 NotebookApp] Creating new notebook in /tensorflow_notebooks/6神经网路算法
+[W 12:14:21.555 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.52ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/Untitled.ipynb?kernel_name=python3
+[I 12:14:21.668 NotebookApp] Kernel started: f69f6461-5dc2-466f-982d-2d7b678c8463
+[W 12:14:21.677 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.82ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/Untitled.ipynb?kernel_name=python3
+[I 12:14:22.712 NotebookApp] Adapting to protocol v5.1 for kernel f69f6461-5dc2-466f-982d-2d7b678c8463
+[I 12:14:39.329 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:15:01.778 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:16:09.238 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:16:21.635 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:16:41.855 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:16:43.588 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:17:35.890 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:18:21.628 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:18:27.307 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:19:00.017 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:19:57.221 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:20:12.091 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:20:21.626 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:20:30.194 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:20:50.722 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:21:30.807 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:21:55.915 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:24:37.455 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:24:48.208 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:25:05.416 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:25:22.886 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:26:21.613 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:29:07.962 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:29:21.178 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:29:32.034 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:29:41.584 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:30:11.567 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:30:31.336 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:30:43.134 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:30:51.415 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:31:00.820 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:31:17.245 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:39:57.677 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:40:10.387 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:40:21.580 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:41:28.989 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:41:41.338 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:42:21.577 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:52:35.225 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:52:40.193 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:53:57.537 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:05.850 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:11.417 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:21.528 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:27.359 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:30.543 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:33.439 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:43.759 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:45.230 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:50.142 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:54:55.954 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:55:04.334 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:55:33.078 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:55:39.823 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:56:14.745 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:56:30.866 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:56:35.377 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:57:44.442 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:57:45.914 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:58:04.731 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:58:21.512 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:58:54.744 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 12:59:06.187 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:00:21.518 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:00:41.503 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:00:49.898 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:02:21.918 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:03:40.218 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1.ipynb
+[I 13:03:53.419 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1神经网络.ipynb
+[I 13:04:02.384 NotebookApp] Creating new notebook in /tensorflow_notebooks/6神经网路算法
+[W 13:04:02.713 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.73ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/Untitled.ipynb?kernel_name=python3
+[I 13:04:02.803 NotebookApp] Kernel started: 00a5675d-9df4-418f-a8bd-539358a2e411
+[W 13:04:02.809 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 3.09ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/Untitled.ipynb?kernel_name=python3
+[I 13:04:03.613 NotebookApp] Adapting to protocol v5.1 for kernel 00a5675d-9df4-418f-a8bd-539358a2e411
+[I 13:04:13.990 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:04:57.258 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:05:10.513 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:05:37.703 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:05:55.801 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:06:20.184 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:06:20.625 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:06:54.431 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:07:14.978 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:07:19.210 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:07:43.599 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:08:02.787 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:08:18.531 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:08:24.354 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:08:29.144 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:09:30.893 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:10:02.899 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:10:12.993 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:10:15.458 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/1神经网络.ipynb
+[I 13:10:16.120 NotebookApp] Starting buffering for f69f6461-5dc2-466f-982d-2d7b678c8463:DD2C0FC60F594F3A8B246AC641C3EC46
+[I 13:10:20.721 NotebookApp] Kernel shutdown: 936bda43-eeeb-4bfa-b8fe-803a9a2bb6e6
+[I 13:10:22.845 NotebookApp] Kernel shutdown: bf287f1c-d788-4fd0-b126-4f5f85c62c4a
+[I 13:10:23.670 NotebookApp] Kernel shutdown: 9614ddcf-3393-4431-9ae2-8bfac40367e1
+[W 13:10:25.186 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.41ms referer=http://localhost:8890/tree/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95
+[I 13:10:29.410 NotebookApp] Kernel shutdown: 0f3419cb-a423-409b-a7d8-ea7f98d653c1
+[W 13:10:29.413 NotebookApp] 404 DELETE /api/sessions/ef03f4b5-f5cc-4f51-9739-54a7579e01c5 (::1): Session not found: session_id='ef03f4b5-f5cc-4f51-9739-54a7579e01c5'
+[W 13:10:29.413 NotebookApp] Session not found: session_id='ef03f4b5-f5cc-4f51-9739-54a7579e01c5'
+[W 13:10:29.413 NotebookApp] 404 DELETE /api/sessions/ef03f4b5-f5cc-4f51-9739-54a7579e01c5 (::1) 1.92ms referer=http://localhost:8890/tree/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95
+[I 13:10:32.165 NotebookApp] Kernel shutdown: 34936b43-d1cd-49ef-9c6a-e2c76bec906a
+[I 13:10:33.227 NotebookApp] Kernel shutdown: f69f6461-5dc2-466f-982d-2d7b678c8463
+[I 13:10:39.107 NotebookApp] Starting buffering for 00a5675d-9df4-418f-a8bd-539358a2e411:BC1F1303B5614AAF8375FC57F07CA1BF
+[W 13:10:39.330 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.44ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/2-%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb
+[W 13:10:39.412 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.80ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/6%E7%A5%9E%E7%BB%8F%E7%BD%91%E8%B7%AF%E7%AE%97%E6%B3%95/2-%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb
+[I 13:10:39.473 NotebookApp] Adapting to protocol v5.1 for kernel 00a5675d-9df4-418f-a8bd-539358a2e411
+[I 13:10:54.572 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:11:01.191 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:11:25.143 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:11:29.030 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:11:33.406 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:11:41.653 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:12:18.478 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:12:20.983 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:12:39.409 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:13:11.155 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[I 13:14:39.402 NotebookApp] Saving file at /tensorflow_notebooks/6神经网路算法/2-手写数字识别.ipynb
+[W 13:19:16.865 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[I 13:19:23.806 NotebookApp] Creating new directory in /tensorflow_notebooks
+[W 13:19:34.968 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.43ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E5%AE%9E%E4%BE%8B
+[I 13:19:38.748 NotebookApp] Creating new notebook in /tensorflow_notebooks/TF实例
+[W 13:19:39.060 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.48ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E5%AE%9E%E4%BE%8B/Untitled.ipynb?kernel_name=python3
+[I 13:19:39.158 NotebookApp] Kernel started: a8487cd2-930d-453e-aefb-97862af3a983
+[W 13:19:39.164 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.83ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E5%AE%9E%E4%BE%8B/Untitled.ipynb?kernel_name=python3
+[I 13:19:39.911 NotebookApp] Adapting to protocol v5.1 for kernel a8487cd2-930d-453e-aefb-97862af3a983
+[I 13:19:54.365 NotebookApp] Saving file at /tensorflow_notebooks/TF实例/2-1创建图启动图.ipynb
+[I 14:52:01.632 NotebookApp] Starting buffering for 00a5675d-9df4-418f-a8bd-539358a2e411:E895F6BE9DA3469A8382ACBC08D10277
+[W 14:55:20.669 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.79ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E5%AE%9E%E4%BE%8B
+[W 14:55:21.580 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.47ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 14:55:22.932 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.38ms referer=http://localhost:8890/tree/tensorflow_notebooks/2
+[W 14:55:27.612 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.36ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 14:55:30.176 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.85ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[W 14:55:32.659 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.49ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 14:55:35.873 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.44ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E5%AE%9E%E4%BE%8B
+[I 14:55:38.410 NotebookApp] Starting buffering for a8487cd2-930d-453e-aefb-97862af3a983:42BEF01CC1B848B68F9D19BD66881E7C
+[I 14:55:43.675 NotebookApp] Kernel shutdown: a8487cd2-930d-453e-aefb-97862af3a983
+[W 14:55:43.677 NotebookApp] delete /tensorflow_notebooks/TF实例/2-1创建图启动图.ipynb
+[W 14:55:44.878 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.34ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 14:55:48.296 NotebookApp] delete /tensorflow_notebooks/TF实例
+[W 14:56:00.730 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.26ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B
+[W 14:56:03.308 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-4%20Tensorflow%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B.ipynb
+[I 14:56:03.445 NotebookApp] Kernel started: a817d70f-55df-49e5-a995-87f3a021007a
+[W 14:56:03.450 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.72ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-4%20Tensorflow%E7%AE%80%E5%8D%95%E7%A4%BA%E4%BE%8B.ipynb
+[I 14:56:04.167 NotebookApp] Adapting to protocol v5.1 for kernel a817d70f-55df-49e5-a995-87f3a021007a
+[I 14:56:14.159 NotebookApp] Starting buffering for a817d70f-55df-49e5-a995-87f3a021007a:BC5E9D0CF2CE40CD8A208560CCA33E9D
+[I 14:56:17.606 NotebookApp] Creating new notebook in /tensorflow_notebooks/TF教程
+[W 14:56:17.961 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.28ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 14:56:18.033 NotebookApp] Kernel started: 28561d3d-06b9-4810-8a1a-e068c1843169
+[W 14:56:18.043 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 3.65ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 14:56:18.745 NotebookApp] Adapting to protocol v5.1 for kernel 28561d3d-06b9-4810-8a1a-e068c1843169
+[I 14:58:18.511 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 15:00:14.402 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:00:18.020 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:01:10.669 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:01:57.354 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:02:11.712 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:02:18.014 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:02:18.311 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:03:07.806 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:03:41.665 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:03:47.930 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:04:18.010 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/线性回归.ipynb
+[I 15:12:27.551 NotebookApp] Starting buffering for 28561d3d-06b9-4810-8a1a-e068c1843169:721F9F64F7D241F18B428858CB70FBC7
+[W 17:28:54.799 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.11ms referer=http://localhost:8890/tree/tensorflow_notebooks/3
+[W 17:28:56.582 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.27ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 17:28:58.667 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.24ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B
+[I 17:29:33.761 NotebookApp] Creating new notebook in /tensorflow_notebooks/TF教程
+[W 17:29:34.085 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.88ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 17:29:34.182 NotebookApp] Kernel started: 4cb3ddf6-01c0-4169-9ff6-6fe2b33993f8
+[W 17:29:34.191 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 3.72ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 17:29:35.143 NotebookApp] Adapting to protocol v5.1 for kernel 4cb3ddf6-01c0-4169-9ff6-6fe2b33993f8
+[I 17:29:43.926 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:30:53.191 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:13.390 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:20.230 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:33.613 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:34.169 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:37.309 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:31:55.056 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:32:10.471 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:32:15.646 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:32:18.589 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:32:20.943 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:32:25.793 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:33:34.168 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:33:43.750 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:34:17.946 NotebookApp] Kernel started: ccddf95a-a0a2-46fc-802a-5ba189f6a78b
+[W 17:34:18.242 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.13ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-1%E5%88%9B%E5%BB%BA%E5%9B%BE%EF%BC%8C%E5%90%AF%E5%8A%A8%E5%9B%BE.ipynb
+[W 17:34:18.244 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.46ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-1%E5%88%9B%E5%BB%BA%E5%9B%BE%EF%BC%8C%E5%90%AF%E5%8A%A8%E5%9B%BE.ipynb
+[I 17:34:18.626 NotebookApp] Adapting to protocol v5.1 for kernel ccddf95a-a0a2-46fc-802a-5ba189f6a78b
+[I 17:34:30.467 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:34:31.564 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+2018-01-01 17:34:32.047220: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+[I 17:34:52.674 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:34:57.049 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:34:57.337 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:35:21.325 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:35:34.534 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:35:45.859 NotebookApp] Kernel started: aaec4ec0-7b10-4c86-929f-7eced6e5b1c1
+[W 17:35:46.527 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.36ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-2%E5%8F%98%E9%87%8F.ipynb
+[I 17:35:46.530 NotebookApp] Adapting to protocol v5.1 for kernel aaec4ec0-7b10-4c86-929f-7eced6e5b1c1
+[W 17:35:46.532 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.58ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/2-2%E5%8F%98%E9%87%8F.ipynb
+[I 17:35:46.772 NotebookApp] Starting buffering for ccddf95a-a0a2-46fc-802a-5ba189f6a78b:BD5547426DF14BF3A7454CC73C1AA018
+[I 17:36:03.182 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:04.156 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:12.571 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:18.619 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:25.849 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:30.330 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:36:35.468 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:15.969 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:16.928 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:24.769 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:30.488 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:34.157 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:37:35.289 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:38:57.164 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:11.187 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:23.498 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:29.794 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:34.146 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:46.717 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:52.717 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:39:58.189 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:40:02.421 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:40:30.933 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:40:47.308 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:41:02.578 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:41:34.144 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:42:04.516 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:42:40.992 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:42:49.295 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:42:59.625 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:43:18.906 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:45:11.673 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:45:34.131 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:46:23.099 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:46:37.165 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:46:58.196 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:47:12.350 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:47:17.947 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:47:34.128 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:48:56.355 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:49:21.337 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:49:36.936 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:49:58.684 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:50:03.750 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:50:09.931 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:50:40.299 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:50:54.817 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:51:08.627 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:51:26.653 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:51:34.121 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:51:41.180 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:51:58.593 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:53:18.556 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:53:34.116 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:53:45.844 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:54:01.453 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:54:31.959 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:54:32.989 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:54:36.837 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:54:52.349 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:18.171 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:25.489 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:34.107 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:46.817 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:48.338 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 17:55:51.714 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:09:24.985 NotebookApp] Creating new notebook in /tensorflow_notebooks/TF教程
+[W 18:09:25.276 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.17ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 18:09:25.338 NotebookApp] Kernel started: 6f22c656-04b8-4378-8d52-6c5d964b4ea9
+[W 18:09:25.343 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.25ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled.ipynb?kernel_name=python3
+[I 18:09:26.241 NotebookApp] Adapting to protocol v5.1 for kernel 6f22c656-04b8-4378-8d52-6c5d964b4ea9
+[I 18:09:27.445 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:06.647 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:25.327 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:34.791 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:37.534 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:39.223 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:40.791 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:42.607 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:45.302 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:11:57.878 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:29.940 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:31.716 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:36.796 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:43.796 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:45.268 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:46.886 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:48.603 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:51.084 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:12:53.547 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+2018-01-01 18:12:56.924652: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+[I 18:13:25.332 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:14:22.785 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[I 18:14:43.591 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/Untitled.ipynb
+[W 18:20:19.764 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.26ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B
+[W 18:20:21.118 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.24ms referer=http://localhost:8890/tree
+[W 18:20:23.072 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.39ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 18:20:24.893 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.29ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master
+[W 18:20:27.789 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.37ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:20:29.849 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.30ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite
+[W 18:20:31.601 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/ml_introduction.ipynb is not trusted
+[I 18:20:31.742 NotebookApp] Kernel started: 196ef1dd-cab9-444f-8732-ce3bce9b3f2f
+[W 18:20:32.056 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.93ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/ml_introduction.ipynb
+[W 18:20:32.062 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.92ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/ml_introduction.ipynb
+[I 18:20:32.680 NotebookApp] Adapting to protocol v5.1 for kernel 196ef1dd-cab9-444f-8732-ce3bce9b3f2f
+[I 18:20:34.615 NotebookApp] Starting buffering for 196ef1dd-cab9-444f-8732-ce3bce9b3f2f:5170CB99DBAF46EBBB746C5F41FBB326
+[W 18:20:37.653 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb is not trusted
+[I 18:20:37.869 NotebookApp] Kernel started: b3fa0165-0bd3-4cad-9451-e1b7c4bc1c73
+[W 18:20:38.235 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.85ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb
+[W 18:20:38.238 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.91ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb
+[I 18:20:38.565 NotebookApp] Adapting to protocol v5.1 for kernel b3fa0165-0bd3-4cad-9451-e1b7c4bc1c73
+[I 18:20:52.740 NotebookApp] Starting buffering for b3fa0165-0bd3-4cad-9451-e1b7c4bc1c73:8669205C6F1F4CBDB4C8EF343F5D3175
+[W 18:20:56.373 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.28ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:20:57.474 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.49ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:21:00.605 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb is not trusted
+[I 18:21:00.745 NotebookApp] Kernel started: e9faaa66-0049-4bbc-b80d-4334e6be89ff
+[W 18:21:01.408 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.56ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[W 18:21:01.412 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.15ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:21:01.509 NotebookApp] Adapting to protocol v5.1 for kernel e9faaa66-0049-4bbc-b80d-4334e6be89ff
+[W 18:21:01.610 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb is not trusted
+[I 18:21:01.830 NotebookApp] Kernel started: af84f34d-01b3-464e-856f-1e7b6817708c
+[W 18:21:02.408 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.64ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb
+[W 18:21:02.413 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.62ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb
+[I 18:21:02.533 NotebookApp] Adapting to protocol v5.1 for kernel af84f34d-01b3-464e-856f-1e7b6817708c
+[I 18:21:17.507 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:21:32.882 NotebookApp] Kernel shutdown: 00a5675d-9df4-418f-a8bd-539358a2e411
+[W 18:21:32.886 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1): Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:32.886 NotebookApp] Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:32.886 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1) 1.77ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:21:32.888 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1): Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:32.888 NotebookApp] Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:32.889 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1) 1.61ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[I 18:21:33.709 NotebookApp] Kernel shutdown: 28561d3d-06b9-4810-8a1a-e068c1843169
+[W 18:21:33.713 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1): Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.714 NotebookApp] Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.714 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1) 1.35ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:21:33.715 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1): Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.715 NotebookApp] Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.715 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1) 1.18ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:21:33.717 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1): Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.717 NotebookApp] Session not found: session_id='f207564f-f592-4556-953b-41b5d18e7e55'
+[W 18:21:33.717 NotebookApp] 404 DELETE /api/sessions/f207564f-f592-4556-953b-41b5d18e7e55 (::1) 1.34ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[I 18:21:34.031 NotebookApp] Kernel shutdown: a817d70f-55df-49e5-a995-87f3a021007a
+[I 18:21:35.789 NotebookApp] Kernel shutdown: 4cb3ddf6-01c0-4169-9ff6-6fe2b33993f8
+[I 18:21:36.105 NotebookApp] Kernel shutdown: ccddf95a-a0a2-46fc-802a-5ba189f6a78b
+[I 18:21:41.286 NotebookApp] Kernel shutdown: b3fa0165-0bd3-4cad-9451-e1b7c4bc1c73
+[I 18:21:41.495 NotebookApp] Kernel shutdown: e9faaa66-0049-4bbc-b80d-4334e6be89ff
+[I 18:21:41.710 NotebookApp] Kernel shutdown: 196ef1dd-cab9-444f-8732-ce3bce9b3f2f
+[I 18:21:42.024 NotebookApp] Kernel shutdown: af84f34d-01b3-464e-856f-1e7b6817708c
+[I 18:21:42.246 NotebookApp] Kernel shutdown: aaec4ec0-7b10-4c86-929f-7eced6e5b1c1
+[I 18:21:42.768 NotebookApp] Kernel shutdown: 6f22c656-04b8-4378-8d52-6c5d964b4ea9
+[W 18:21:42.775 NotebookApp] 404 DELETE /api/sessions/d276ddcc-5f2b-48b8-b963-0ac090f89db1 (::1): Session not found: session_id='d276ddcc-5f2b-48b8-b963-0ac090f89db1'
+[W 18:21:42.775 NotebookApp] Session not found: session_id='d276ddcc-5f2b-48b8-b963-0ac090f89db1'
+[W 18:21:42.776 NotebookApp] 404 DELETE /api/sessions/d276ddcc-5f2b-48b8-b963-0ac090f89db1 (::1) 1.36ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:21:42.782 NotebookApp] 404 DELETE /api/sessions/67da56e0-6d2a-476f-aee9-96752e81108c (::1): Session not found: session_id='67da56e0-6d2a-476f-aee9-96752e81108c'
+[W 18:21:42.782 NotebookApp] Session not found: session_id='67da56e0-6d2a-476f-aee9-96752e81108c'
+[W 18:21:42.782 NotebookApp] 404 DELETE /api/sessions/67da56e0-6d2a-476f-aee9-96752e81108c (::1) 1.17ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[I 18:21:49.714 NotebookApp] Kernel started: 361f76ce-a3b1-4c85-86bc-6023931c1b3a
+[W 18:21:50.405 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.26ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[W 18:21:50.408 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.56ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:21:50.469 NotebookApp] Adapting to protocol v5.1 for kernel 361f76ce-a3b1-4c85-86bc-6023931c1b3a
+2018-01-01 18:22:05.131805: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+[I 18:22:15.175 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:22:17.844 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:22:18.669 NotebookApp] Starting buffering for 361f76ce-a3b1-4c85-86bc-6023931c1b3a:FE100E73824D4597B0BD03C9F378B799
+[W 18:22:24.595 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb is not trusted
+[W 18:22:24.605 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.94ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb
+[W 18:22:24.621 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.96ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb
+[I 18:22:24.831 NotebookApp] Kernel started: d5b6529f-c9a4-4a8b-b547-1dc85de92240
+[I 18:22:25.474 NotebookApp] Adapting to protocol v5.1 for kernel d5b6529f-c9a4-4a8b-b547-1dc85de92240
+[I 18:22:28.839 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/basic_operations.ipynb
+[W 18:37:17.632 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.28ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:37:21.570 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.58ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU
+[W 18:37:24.987 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_basics.ipynb is not trusted
+[W 18:37:24.994 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.17ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_basics.ipynb
+[I 18:37:25.217 NotebookApp] Kernel started: 3f422588-8d3e-445c-af7b-28521aafbd1b
+[W 18:37:25.222 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.72ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_basics.ipynb
+[I 18:37:25.896 NotebookApp] Adapting to protocol v5.1 for kernel 3f422588-8d3e-445c-af7b-28521aafbd1b
+[W 18:38:02.581 NotebookApp] Notebook tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb is not trusted
+[I 18:38:02.922 NotebookApp] Kernel started: a550b236-4919-4f10-a86c-f79cfeba64e7
+[W 18:38:03.094 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.56ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+[W 18:38:03.095 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.15ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+[I 18:38:03.659 NotebookApp] Adapting to protocol v5.1 for kernel a550b236-4919-4f10-a86c-f79cfeba64e7
+[W 18:38:59.089 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.75ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 18:39:02.432 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.35ms referer=http://localhost:8890/tree/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B
+[I 18:39:06.474 NotebookApp] Creating new notebook in /tensorflow_notebooks/TF教程
+[W 18:39:06.761 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.84ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled1.ipynb?kernel_name=python3
+[I 18:39:06.825 NotebookApp] Kernel started: cbb76278-4e3b-4425-a113-30f60271c6ac
+[W 18:39:06.833 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.12ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/Untitled1.ipynb?kernel_name=python3
+[I 18:39:07.737 NotebookApp] Adapting to protocol v5.1 for kernel cbb76278-4e3b-4425-a113-30f60271c6ac
+[I 18:39:25.378 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_basics.ipynb
+[I 18:39:30.979 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:39:33.601 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[W 18:39:37.682 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.36ms referer=http://localhost:8890/tree/tensorflow_notebooks
+[W 18:39:39.780 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.28ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master
+[W 18:39:41.786 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.32ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:39:42.942 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.27ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/0_Prerequisite
+[W 18:39:45.887 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.34ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:39:46.939 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.33ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction
+[W 18:39:48.148 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.49ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[W 18:39:48.149 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.37ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/1_Introduction/helloworld.ipynb
+[I 18:39:48.266 NotebookApp] Adapting to protocol v5.1 for kernel 361f76ce-a3b1-4c85-86bc-6023931c1b3a
+[I 18:40:03.585 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+2018-01-01 18:40:10.017946: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+[I 18:40:14.090 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:41:00.184 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+2018-01-01 18:41:00.829650: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+[I 18:41:06.819 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:42:03.582 NotebookApp] Saving file at /tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+[I 18:42:37.508 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:42:53.331 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:44:36.276 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+2018-01-01 18:44:37.597688: I tensorflow/core/common_runtime/direct_session.cc:299] Device mapping:
+
+2018-01-01 18:44:37.602140: I tensorflow/core/common_runtime/placer.cc:874] MatMul: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+2018-01-01 18:44:42.779901: I tensorflow/core/common_runtime/direct_session.cc:299] Device mapping:
+
+2018-01-01 18:44:42.783739: I tensorflow/core/common_runtime/placer.cc:874] MatMul_1: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+2018-01-01 18:44:42.783784: I tensorflow/core/common_runtime/placer.cc:874] MatMul: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+[I 18:44:46.062 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:44:48.588 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:44:51.235 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[I 18:44:53.793 NotebookApp] Starting buffering for cbb76278-4e3b-4425-a113-30f60271c6ac:CA7B1C741CEC417A8D40C16A97F6F211
+[W 18:44:54.069 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.39ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/GPU.ipynb
+[I 18:44:54.201 NotebookApp] Adapting to protocol v5.1 for kernel cbb76278-4e3b-4425-a113-30f60271c6ac
+[W 18:44:54.208 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 2.23ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TF%E6%95%99%E7%A8%8B/GPU.ipynb
+2018-01-01 18:44:56.672541: I tensorflow/core/common_runtime/direct_session.cc:299] Device mapping:
+
+2018-01-01 18:44:56.678407: I tensorflow/core/common_runtime/placer.cc:874] MatMul_2: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+2018-01-01 18:44:56.678443: I tensorflow/core/common_runtime/placer.cc:874] MatMul_1: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+2018-01-01 18:44:56.678459: I tensorflow/core/common_runtime/placer.cc:874] MatMul: (MatMul)/job:localhost/replica:0/task:0/device:CPU:0
+[I 18:46:54.349 NotebookApp] Saving file at /tensorflow_notebooks/TF教程/GPU.ipynb
+[W 18:47:27.296 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.40ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master
+[W 18:47:29.199 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.32ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 18:47:31.713 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.36ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master
+[W 18:47:32.953 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.59ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/examples
+[W 18:47:34.179 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.25ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/examples/6_MultiGPU
+[W 18:47:37.301 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.35ms referer=http://localhost:8890/edit/tensorflow_notebooks/TensorFlow-Examples-master/examples/6_MultiGPU/multigpu_cnn.py
+[W 18:48:17.611 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.50ms referer=http://localhost:8890/edit/tensorflow_notebooks/TensorFlow-Examples-master/examples/6_MultiGPU/multigpu_basics.py
+[W 15:29:34.586 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 3.37ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/examples
+[W 15:29:37.340 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.42ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/examples/5_DataManagement
+[W 15:29:39.729 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.53ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master
+[W 15:29:41.347 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.47ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks
+[W 15:29:43.270 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 1.62ms referer=http://localhost:8890/tree/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU
+[W 15:29:47.229 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20171230212202 (::1) 2.08ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+[W 15:29:47.232 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171230212202 (::1) 1.71ms referer=http://localhost:8890/notebooks/tensorflow_notebooks/TensorFlow-Examples-master/notebooks/6_MultiGPU/multigpu_cnn.ipynb
+[I 15:29:47.565 NotebookApp] Adapting to protocol v5.1 for kernel a550b236-4919-4f10-a86c-f79cfeba64e7
